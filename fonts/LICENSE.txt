@@ -1,0 +1,1 @@
+Fredoka and Lexend are licensed under the SIL Open Font License 1.1 (https://openfontlicense.org). Embedded in css/fonts.css so the app works offline.
