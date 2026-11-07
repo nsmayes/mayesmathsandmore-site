@@ -28,7 +28,13 @@
     [under, track, lit].forEach(function (p) { p.setAttribute('d', d); });
     svg.setAttribute('viewBox', '0 0 ' + box.width + ' ' + box.height);
     length = lit.getTotalLength();
-    if (!MOVE) { litRect.setAttribute('height', box.height); nodes.forEach(function (n) { n.classList.add('reached'); }); return; }
+    if (!MOVE) {
+      litRect.setAttribute('height', box.height); nodes.forEach(function (n) { n.classList.add('reached'); });
+      // with less motion asked for, Pip simply stands still on the path, a little above the first stop
+      var stand = lit.getPointAtLength(Math.max(0, Math.min(length, nodeY[0] - (window.innerWidth > 900 ? 120 : 90))));
+      walker.hidden = false; place(stand.x, stand.y, 0, 1, 1);
+      return;
+    }
     wake();
   }
   // where Pip should be: level with a point just past the middle of the screen. Until the path itself reaches that
