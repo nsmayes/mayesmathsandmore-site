@@ -1,0 +1,60 @@
+# Mayes Maths & More
+
+> Free maths practice app for children in England, from Year 1 to GCSE, plus 11+ maths and non-verbal reasoning. Follows the National Curriculum, with Pip the owl as tutor. No adverts, no in-app purchases, no accounts, and it works offline.
+
+Mayes Maths & More is a free maths learning app for children in England, made by Neil Mayes. It runs in any web browser and can be installed on a phone, tablet or computer. Pip the owl is the tutor.
+
+## Key facts
+
+- Website: https://mayesmathsandmore.com/
+- Open the app: https://nsmayes.github.io/Mayes-Maths-More/play.html
+- Contact: hello@mayesmathsandmore.com
+- LinkedIn: https://www.linkedin.com/company/mayes-maths-more/
+- Price: free. No adverts, no in-app purchases, no subscription, no accounts.
+- Ages: 5 to 16 (Year 1 to Year 11), following the National Curriculum for England, including GCSE Foundation and Higher tier.
+- 11+: maths and non-verbal reasoning practice for Years 4 to 6.
+- GCSE practice papers in AQA, Edexcel (Pearson), OCR and Eduqas layouts, with examiner-style marking.
+- Privacy: nothing about the child leaves the device; progress is stored only on the device. No tracking.
+- Works offline once opened or installed.
+- Healthy screen time: short rounds of 10 questions, rewards for right answers rather than time spent, a break suggestion after 15 minutes in a row, rewards capped each day, a 30-minute daily limit for new children, parent-set play time limits, and no leaderboards.
+
+## Questions parents ask
+
+### Is Mayes Maths & More really free?
+
+Yes. It is free to download and free to use, with no adverts, no in-app purchases and no subscription. It was made to help children learn, not to make money.
+
+### Which ages and school years does it cover?
+
+Every school year in England from Year 1 to Year 11 (ages 5 to 16), from counting and number bonds to GCSE Foundation and Higher tier. There is also 11+ practice in maths and non-verbal reasoning for Years 4 to 6.
+
+### Does it follow the National Curriculum?
+
+Yes. Each year follows the National Curriculum for England. GCSE practice papers follow the layout of the AQA, Edexcel (Pearson), OCR and Eduqas exam boards, and questions show how an examiner would mark them.
+
+### How does it help my child learn?
+
+Pip the owl explains each idea in small steps, then children practise with hints and a step-by-step "Show me how" when they are stuck. Questions get harder as they improve, and a grown-ups’ area shows which topics are improving and which need more practice.
+
+### How does it keep screen time healthy?
+
+Practice comes in short rounds of 10 questions, and rewards come from right answers, not time spent. Pip suggests a break after 15 minutes in a row, acorns for outfits are capped at 50 a day, every new child starts with a 30-minute daily limit, and grown-ups can set their own play time limits. There are no leaderboards and no competing with classmates.
+
+### Is my child’s data safe?
+
+Yes. There are no accounts or sign-ups, and nothing about your child leaves the device: progress is saved only on the phone, tablet or computer they use. There is no tracking and no advertising.
+
+### Does it work without the internet?
+
+Yes. Open it once while online, or install it on the device, and it then works offline. It runs in a web browser, so it works on iPhone, iPad, Android, Chromebook, Windows and Mac without an app store.
+
+### Who made Mayes Maths & More?
+
+It was made by Neil Mayes, a parent in England, for families and schools. You can email hello@mayesmathsandmore.com with feedback, questions or ideas.
+
+## Links
+
+- [Open the app](https://nsmayes.github.io/Mayes-Maths-More/play.html)
+- [Help and contact](https://nsmayes.github.io/Mayes-Maths-More/help.html)
+- [About, credits and licences](https://nsmayes.github.io/Mayes-Maths-More/about.html)
+- [Privacy](https://nsmayes.github.io/Mayes-Maths-More/index.html#privacy)

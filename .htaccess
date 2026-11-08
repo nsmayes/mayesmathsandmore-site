@@ -13,3 +13,8 @@ RewriteRule ^ https://mayesmathsandmore.com%{REQUEST_URI} [L,R=301]
     Header set Cache-Control "public, max-age=604800"
   </FilesMatch>
 </IfModule>
+
+# plain text for robots.txt and llms.txt, and the sitemap as XML
+AddType text/plain .txt
+AddType application/xml .xml
+AddCharset utf-8 .txt .xml .html
