@@ -4,17 +4,25 @@ RewriteCond %{HTTPS} !=on [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^ https://mayesmathsandmore.com%{REQUEST_URI} [L,R=301]
 
+# one address for each page: /index.html and /year-4-maths/index.html go to / and /year-4-maths/
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /$1 [L,R=301]
+
+# a friendly page for addresses that do not exist
+ErrorDocument 404 /404.html
+
 # keep the page fresh; pictures and fonts can be kept for a week
 <IfModule mod_headers.c>
   <FilesMatch "\.(html|css|js)$">
     Header set Cache-Control "public, max-age=300"
   </FilesMatch>
-  <FilesMatch "\.(png|jpg|svg|woff2)$">
+  <FilesMatch "\.(png|jpg|webp|svg|woff2)$">
     Header set Cache-Control "public, max-age=604800"
   </FilesMatch>
 </IfModule>
 
-# plain text for robots.txt and llms.txt, and the sitemap as XML
+# plain text for robots.txt and llms.txt, the sitemap as XML, and WebP pictures
 AddType text/plain .txt
 AddType application/xml .xml
+AddType image/webp .webp
 AddCharset utf-8 .txt .xml .html

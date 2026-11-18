@@ -100,6 +100,25 @@ button:focus-visible { outline: 3px solid #1b59c9; outline-offset: 2px; border-r
 .faq details p { margin: 0 4px 18px; color: #d6e6e3; }
 .faq a { color: var(--mint); }
 
+/* links in the words beside each stop */
+.words a { color: #0a5c52; font-weight: 500; text-underline-offset: 2px; }
+.night .words a { color: var(--mint); }
+
+/* ---------- every year, every topic ---------- */
+.years { position: relative; z-index: 2; padding-top: 10px; padding-bottom: 60px; }
+.years h2 { text-align: center; }
+.years .lede { margin: 0 auto 26px; text-align: center; color: #d6e6e3; font-size: 1.08em; }
+.ygrid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+.ycard { position: relative; display: block; height: 100%; padding: 14px 16px 14px 70px; border-radius: 18px; background: rgba(20, 52, 60, .8); border: 1px solid rgba(127, 211, 198, .28); text-decoration: none; color: var(--cream); }
+.ycard:hover { border-color: var(--gold); background: rgba(28, 66, 75, .9); }
+.ycard .yn { position: absolute; left: 14px; top: 14px; display: grid; place-items: center; width: 42px; height: 42px; border-radius: 50%; border: 3px solid var(--gold); font: 600 1.05rem/1 var(--display); }
+.ycard.extra .yn { background: var(--gold); color: var(--on-gold); }
+.ycard b { display: block; font: 600 1.15rem/1.2 var(--display); }
+.ycard small { display: block; color: var(--mint); font-size: .85em; margin: 2px 0 4px; }
+.ycard .eg { display: block; font-size: .82em; line-height: 1.45; color: #b9cfcb; }
+@media (max-width: 900px) { .ygrid { grid-template-columns: 1fr 1fr; } .ycard { padding: 12px 12px 12px 58px; } .ycard .yn { left: 10px; top: 12px; width: 38px; height: 38px; } }
+@media (max-width: 520px) { .ygrid { grid-template-columns: 1fr; } }
+
 /* ---------- the path and Pip ---------- */
 #trail { position: relative; display: block; }
 #path { position: absolute; inset: 0; width: 100%; height: 100%; max-width: none; z-index: 1; pointer-events: none; overflow: visible; }

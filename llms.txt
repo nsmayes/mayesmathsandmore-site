@@ -1,22 +1,48 @@
 # Mayes Maths & More
 
-> Free maths practice app for children in England, from Year 1 to GCSE, plus 11+ maths and non-verbal reasoning. Follows the National Curriculum, with Pip the owl as tutor. No adverts, no in-app purchases, no accounts, and it works offline.
+> Free maths app for children in England, from Year 1 to GCSE, with times tables, KS2 SATs-style papers, and 11+ maths, non-verbal reasoning and English. Follows the National Curriculum for England, with Pip the owl as tutor. No adverts, no in-app purchases, no accounts, and it works offline.
 
-Mayes Maths & More is a free maths learning app for children in England, made by Neil Mayes. It runs in any web browser and can be installed on a phone, tablet or computer. Pip the owl is the tutor.
+Mayes Maths & More is a free maths learning app for children aged 5 to 16 in England, made by Neil Mayes, a parent in England. It runs in any web browser and can be installed on a phone, tablet or computer. Version 1.1, updated 2026-11-18.
 
 ## Key facts
 
 - Website: https://mayesmathsandmore.com/
 - Open the app: https://nsmayes.github.io/Mayes-Maths-More/play.html
 - Contact: hello@mayesmathsandmore.com
-- LinkedIn: https://www.linkedin.com/company/mayes-maths-more/
 - Price: free. No adverts, no in-app purchases, no subscription, no accounts.
-- Ages: 5 to 16 (Year 1 to Year 11), following the National Curriculum for England, including GCSE Foundation and Higher tier.
-- 11+: maths and non-verbal reasoning practice for Years 4 to 6.
-- GCSE practice papers in AQA, Edexcel (Pearson), OCR and Eduqas layouts, with examiner-style marking.
-- Privacy: nothing about the child leaves the device; progress is stored only on the device. No tracking.
+- Coverage: 425 curriculum topics across Years 1 to 11, following the National Curriculum for England, including every GCSE topic at Foundation (grades 1 to 5) and Higher (grades 4 to 9) tier.
+- Topics per year: Year 1 18, Year 2 34, Year 3 33, Year 4 42, Year 5 47, Year 6 49, Year 7 37, Year 8 23, Year 9 20, Year 10 68, Year 11 54.
+- Practice papers for every year: SATs-style papers for Year 6 (Paper 1 arithmetic, Papers 2 and 3 reasoning), and GCSE papers in AQA, Edexcel (Pearson), OCR and Eduqas layouts with examiner-style marking.
+- Times tables (the Tables Tree): read each table through with read-aloud, practise with or without a timer, test on chosen tables, and a practice Year 4 Multiplication Tables Check (25 questions, 6 seconds each).
+- 11+: 22 topics of maths, non-verbal reasoning and English, multiple choice, for Years 4 to 6.
+- Mental maths: 24 tricks in Pip's Trick Box, each shown from the school year whose maths it uses.
+- For grown-ups: progress tracking, special tasks (search any topic and set it for a child), play time limits, end-of-year certificates.
+- Privacy: nothing about the child leaves the device; progress is stored only on the device. No tracking, no analytics.
 - Works offline once opened or installed.
-- Healthy screen time: short rounds of 10 questions, rewards for right answers rather than time spent, a break suggestion after 15 minutes in a row, rewards capped each day, a 30-minute daily limit for new children, parent-set play time limits, and no leaderboards.
+- Healthy screen time: short rounds, rewards for right answers rather than time spent, a break suggestion after 15 minutes in a row, rewards capped each day, a 30-minute daily limit for new children, parent-set limits, and no leaderboards.
+- Not official tests, and not endorsed by any exam board, the Standards and Testing Agency or any 11+ test provider.
+
+## Pages
+
+- [Home](https://mayesmathsandmore.com/)
+- [Free Year 1 maths practice](https://mayesmathsandmore.com/year-1-maths/): Free Year 1 maths practice for the National Curriculum in England: all 18 topics in number, fractions, measurement and geometry, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 2 maths practice](https://mayesmathsandmore.com/year-2-maths/): Free Year 2 maths practice for the National Curriculum in England: all 34 topics in number, fractions, measurement, geometry and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 3 maths practice](https://mayesmathsandmore.com/year-3-maths/): Free Year 3 maths practice for the National Curriculum in England: all 33 topics in number, fractions, measurement, geometry and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 4 maths practice](https://mayesmathsandmore.com/year-4-maths/): Free Year 4 maths practice for the National Curriculum in England: all 42 topics in number, fractions, measurement, geometry and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 5 maths practice](https://mayesmathsandmore.com/year-5-maths/): Free Year 5 maths practice for the National Curriculum in England: all 47 topics in number, fractions, measurement, geometry and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 6 maths practice](https://mayesmathsandmore.com/year-6-maths/): Free Year 6 maths practice for the National Curriculum in England: all 49 topics in number, fractions, ratio and proportion, algebra, measurement, geometry and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 7 maths practice](https://mayesmathsandmore.com/year-7-maths/): Free Year 7 maths practice for the National Curriculum in England: all 37 topics in number, fractions, algebra, ratio and proportion, measurement, geometry, statistics and probability, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 8 maths practice](https://mayesmathsandmore.com/year-8-maths/): Free Year 8 maths practice for the National Curriculum in England: all 23 topics in number, algebra, graphs, ratio and proportion, measurement, geometry, statistics and probability, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 9 maths practice](https://mayesmathsandmore.com/year-9-maths/): Free Year 9 maths practice for the National Curriculum in England: all 20 topics in number, algebra, graphs, ratio and proportion, geometry and probability, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 10 GCSE maths practice](https://mayesmathsandmore.com/year-10-maths/): Free Year 10 GCSE maths practice for the National Curriculum in England: all 68 topics in number, fractions, algebra, graphs and probability, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free Year 11 GCSE maths practice](https://mayesmathsandmore.com/year-11-maths/): Free Year 11 GCSE maths practice for the National Curriculum in England: all 54 topics in ratio and proportion, fractions, geometry, measurement and statistics, with lessons from Pip the owl, hints and practice papers. No adverts or sign-ups.
+- [Free times tables practice](https://mayesmathsandmore.com/times-tables/): Free times tables practice for children: read each table through, hear it aloud, practise with or without a timer, test chosen tables, and try a practice Year 4 multiplication tables check.
+- [Free KS2 SATs maths practice](https://mayesmathsandmore.com/ks2-sats/): Free KS2 SATs-style maths practice for Year 6: an arithmetic paper and two reasoning papers, every Year 6 topic with lessons, and SATs-style papers for Years 3 to 5. No adverts or sign-ups.
+- [Free GCSE maths practice](https://mayesmathsandmore.com/gcse-maths/): Free GCSE maths practice: all 122 topics at Foundation and Higher tier, exam-style questions with examiner marking, and practice papers in AQA, Edexcel, OCR and Eduqas layouts.
+- [Free 11+ practice](https://mayesmathsandmore.com/11-plus/): Free 11+ practice for Years 4 to 6: 9 maths topics, 7 non-verbal reasoning topics and 6 english topics, in the multiple-choice style most 11+ tests use.
+- [Mental maths tricks](https://mayesmathsandmore.com/mental-maths-tricks/): 24 mental maths shortcuts from Pip’s Trick Box, from near doubles to reverse percentages, each explained in plain words and appearing in the school year whose maths it uses.
+- [About Mayes Maths & More](https://mayesmathsandmore.com/about/): Who makes Mayes Maths & More, why it is free, how the questions are checked, and how it follows the National Curriculum for England.
+- [Privacy](https://mayesmathsandmore.com/privacy/): Mayes Maths & More has no accounts, adverts, tracking or analytics. Children’s names, answers and progress are saved only on their own device.
 
 ## Questions parents ask
 
@@ -26,19 +52,35 @@ Yes. It is free to download and free to use, with no adverts, no in-app purchase
 
 ### Which ages and school years does it cover?
 
-Every school year in England from Year 1 to Year 11 (ages 5 to 16), from counting and number bonds to GCSE Foundation and Higher tier. There is also 11+ practice in maths and non-verbal reasoning for Years 4 to 6.
+Every school year in England from Year 1 to Year 11 (ages 5 to 16), from counting and number bonds to GCSE Foundation and Higher tier. There is also 11+ practice in maths, non-verbal reasoning and English for Years 4 to 6. See every year.
 
 ### Does it follow the National Curriculum?
 
 Yes. Each year follows the National Curriculum for England. GCSE practice papers follow the layout of the AQA, Edexcel (Pearson), OCR and Eduqas exam boards, and questions show how an examiner would mark them.
 
+### Can it help with times tables and the Year 4 multiplication check?
+
+Yes. The Tables Tree covers every table from 2 to 12. Children can read a table through and hear it aloud, practise with or without a timer, and test themselves on the tables they choose. Year 4 has a practice check in the style of the Multiplication Tables Check: 25 questions, 6 seconds each. See times tables practice.
+
+### Does it cover the KS2 SATs and GCSE?
+
+Yes. Year 6 has three practice papers in the style of the KS2 maths SATs, and Years 10 and 11 have GCSE practice papers in the layout of AQA, Edexcel, OCR and Eduqas, at Foundation and Higher tier. They are practice papers, not official ones. See KS2 SATs and GCSE maths.
+
 ### How does it help my child learn?
 
-Pip the owl explains each idea in small steps, then children practise with hints and a step-by-step "Show me how" when they are stuck. Questions get harder as they improve, and a grown-ups’ area shows which topics are improving and which need more practice.
+Pip the owl explains each idea in small steps, then children practise with hints and a step-by-step &quot;Show me how&quot; when they are stuck. Questions get harder as they improve, and a grown-ups’ area shows which topics are improving and which need more practice.
 
 ### How does it keep screen time healthy?
 
 Practice comes in short rounds of 10 questions, and rewards come from right answers, not time spent. Pip suggests a break after 15 minutes in a row, acorns for outfits are capped at 50 a day, every new child starts with a 30-minute daily limit, and grown-ups can set their own play time limits. There are no leaderboards and no competing with classmates.
+
+### Can I set my child a particular topic?
+
+Yes. In the grown-ups’ area you can search every topic in every year, including the 11+ and the mental maths tricks, and set one as a special task with a short note. Your child sees it as a special challenge on their map.
+
+### Is it suitable for home education?
+
+Yes. It covers all the statutory maths in the National Curriculum for England from Year 1 to Year 11, with a lesson for every topic, practice papers for every year and progress tracking, so it works well alongside home education. It is free, with nothing to sign up for.
 
 ### Is my child’s data safe?
 
@@ -51,10 +93,3 @@ Yes. Open it once while online, or install it on the device, and it then works o
 ### Who made Mayes Maths & More?
 
 It was made by Neil Mayes, a parent in England, for families and schools. You can email hello@mayesmathsandmore.com with feedback, questions or ideas.
-
-## Links
-
-- [Open the app](https://nsmayes.github.io/Mayes-Maths-More/play.html)
-- [Help and contact](https://nsmayes.github.io/Mayes-Maths-More/help.html)
-- [About, credits and licences](https://nsmayes.github.io/Mayes-Maths-More/about.html)
-- [Privacy](https://nsmayes.github.io/Mayes-Maths-More/index.html#privacy)
